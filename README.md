@@ -41,18 +41,16 @@
 <h3 align="left">Github Stats:</h3>
 <P>
 <a href="https://github.com/usmanaliwallara/usmanaliwallara">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanaliwallara&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=usmanaliwallara&show_icons=true&locale=en&layout=compact&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=8" alt="usmanaliwallara" />
 </a>
 
 <a href="https://github.com/usmanaliwallara/usmanaliwallara">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=usmanaliwallara&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="UsmanAliWallara's GitHub Stats" />
 </a>  
 </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usmanaliwallara" alt="usmanaliwallara" /></p>
-
-
-
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usmanaliwallara&" alt="usmanaliwallara" />
+</p>
 <!-- 
 **usmanaliwallara/usmanaliwallara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
