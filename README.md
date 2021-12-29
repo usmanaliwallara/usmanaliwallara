@@ -1,6 +1,6 @@
-# Hi 👋, I'm Usman Ali Wallara
 
-A Young Professional WP Website Builder, Front-end Developer & Graphic Designer
+<h1 align="center">Hi 👋, I'm Usman Ali Wallara</h1>
+<h3 align="center">A Young Professional WP Website Builder, Front-end Developer & Graphic Designer</h3>
 
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me:  **usmanaliwallara@gmail.com**
@@ -13,9 +13,13 @@ A Young Professional WP Website Builder, Front-end Developer & Graphic Designer
 <a href="https://twitter.com/usmanaliwallara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="usmanaliwallara" height="30" width="40" /></a>
 <a href="https://www.facebook.com/UsmanAliWallara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="UsmanAliWallara" height="30" width="40" /></a>
 <a href="https://www.instagram.com/usmanaliwallara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="usmanaliwallara" height="30" width="40" /></a>
+<a href="https://dribbble.com/usmanaliwallara" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/dribbble.png" alt="usmanaliwallara" height="40" width="40" /></a>
+<a href="https://www.pinterest.com/usmanaliwallara" target="blank"><img align="center" src="https://img.icons8.com/fluency/100/000000/pinterest.png" alt="usmanaliwallara" height="40" width="40" /></a>
+  
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Technologies & Tools:</h3>
 
 <p align="left"> 
 
@@ -31,6 +35,18 @@ A Young Professional WP Website Builder, Front-end Developer & Graphic Designer
   <a href="https://wordpress.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="wordpress" width="40" height="40"/> </a>
   
 </p>
+
+<h3 align="left">Github Stats:</h3>
+
+<a href="https://github.com/usmanaliwallara/usmanaliwallara">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanaliwallara&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/usmanaliwallara/usmanaliwallara">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=usmanaliwallara&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="UsmanAliWallara's GitHub Stats" />
+</a>  
+
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usmanaliwallara&layout=compact,)](https://github.com/usmanaliwallara/github-readme-stats) -->
 
 
 <!-- 
