@@ -1,4 +1,4 @@
-# Hi 👋, I'm Usman Ali 
+# Hi 👋, I'm Usman Ali Wallara
 
 A Young Professional WP Website Builder, Front-end Developer & Graphic Designer
 
