@@ -35,8 +35,9 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
 <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://wordpress.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="wordpress" width="40" height="40"/> </a>
-  
+<a href="https://wordpress.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="wordpress" width="40" height="40"/> </a>
+<a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/officel/80/000000/php-logo.png" alt="wordpress" width="40" height="40"/> </a>
+
 </p>
 
 <h3 align="left">Github Stats:</h3>
