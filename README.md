@@ -1,5 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Usman Ali Wallara</h1>
+<h1 align="center">Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">I'm Usman Ali Wallara</h1>
 <h3 align="center">A Young Professional WP Website Builder, Front-end Developer & Graphic Designer</h3>
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=usmanaliwallara alt=usmanaliwallara/> </p>
