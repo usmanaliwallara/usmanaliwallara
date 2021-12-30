@@ -4,6 +4,7 @@
 <h3 align="center">A Young Professional WP Website Builder, Front-end Developer & Graphic Designer</h3>
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=usmanaliwallara alt=usmanaliwallara/> </p>
+<p><em>Computer Scientist at <a href="https://smiu.edu.pk/">Sindh Madressatul Islam University (SMIU)</a></em></p>
 
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me:  **usmanaliwallara@gmail.com**
