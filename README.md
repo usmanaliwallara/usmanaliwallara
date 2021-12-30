@@ -55,6 +55,10 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usmanaliwallara&" alt="usmanaliwallara" />
 </p>
+
+<h3 align="left">🏆 GitHub Trophies:</h3>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=usmanaliwallara&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- 
 **usmanaliwallara/usmanaliwallara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
