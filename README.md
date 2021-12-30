@@ -44,7 +44,7 @@
   
 </p>
 
-<h3 align="left">Github Stats:</h3>
+<!-- <h3 align="left">Github Stats:</h3>
 <P>
 <a href="https://github.com/usmanaliwallara/usmanaliwallara">
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=usmanaliwallara&show_icons=true&locale=en&layout=compact&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=8" alt="usmanaliwallara" />
@@ -56,11 +56,33 @@
 </p>
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usmanaliwallara&" alt="usmanaliwallara" />
+</p> -->
+
+
+<h3 align="left">⚡ Github Stats</h3>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=usmanaliwallara&theme=react&border=61dafb&hide_border=true" alt="usmanaliwallara" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=usmanaliwallara&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanaliwallara&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=usmanaliwallara&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=usmanaliwallara&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!-- 
 **usmanaliwallara/usmanaliwallara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
