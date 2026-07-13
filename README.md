@@ -14,9 +14,6 @@ Senior Product Designer • AI-Driven Product Design • Design Systems • UX S
 Designing products that people enjoy using, powered by thoughtful UX and AI-assisted workflows.
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=usmanaliwallara&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
 
 ---
 
@@ -129,39 +126,6 @@ An AI-powered career platform that helps professionals tailor their resumes, gen
 
 ---
 
-## ⚡ GitHub Stats
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=usmanaliwallara&theme=react&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=usmanaliwallara&show_icons=true&theme=react&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanaliwallara&layout=compact&theme=react&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=usmanaliwallara&theme=react-dark&hide_border=true" width="100%"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=usmanaliwallara&theme=algolia&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</p>
-
----
 
 ## 💬 Philosophy
 
